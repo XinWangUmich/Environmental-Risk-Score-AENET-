@@ -1,4 +1,4 @@
-###Sample code of construction of the Environmental Risk Score using Adaptive Elastic-NET###
+###Sample code of construction of the Environmental Risk Score using Adaptive Elastic-NET, Xin Wang, University of Michigan###
 
 ###metal denotes all the (log-10 transformed) metals in the training set##  
 ###Y denotes the continuous dependent variable,that is log-10 waist circumference (WC) in this study, in the training set.#  
