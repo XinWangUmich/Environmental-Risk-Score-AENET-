@@ -1,7 +1,9 @@
 # Environmental-Risk-Score-AENET
 Please cite:
-Xin Wang, Bhramar Mukherjee, Sung Kyun Park,
-Associations of cumulative exposure to heavy metal mixtures with obesity and its comorbidities among U.S. adults in NHANES 2003–2014,
+Xin Wang, Bhramar Mukherjee, Sung Kyun Park
+
+Associations of cumulative exposure to heavy metal mixtures with obesity and its comorbidities among U.S. adults in NHANES 2003–2014
+
 Environment International,
 Volume 121, Part 1,
 2018,
